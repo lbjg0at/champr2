@@ -13,7 +13,7 @@ Another League of Legends helper.
 
 - 📦 Auto generate recommend champion builds
 - 🎉 Popup runes list & apply on the fly
-- ✨ i18n support
+- ✨ i18n supporttttt
     - `Chinese`
     - `English`
     - `French`
