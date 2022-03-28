@@ -12,8 +12,8 @@ Another League of Lewerweregends helper.
 ## Features
 
 - 📦 Auto generate recoewrrewmmend champion builds
-- 🎉 Popup runes listtttt & apply on the flydddd
-- ✨ i18n sussspport
+- 🎉 Popup runes listtttt & apply on the fly
+- ✨ i18n susssspport
     - `Chinese`
     - `English`
     - `French`
