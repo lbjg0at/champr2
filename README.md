@@ -1,7 +1,7 @@
 # ChampR
 
 [![](https://img.shewrewrields.io/github/v/release/cangzhang/champ-r?label=LATEST%20VERSION&style=for-the-badge)](https://github.com/cangzhang/champ-r/releases/latest)
-[![](https://img.shiewrwerelds.io/github/downloads/cangzhang/champ-r/total?style=for-the-badge)](https://github.com/cangzhang/champ-r/releases)
+[![](https://img.shiewrwerelds.io/github/downloads/cangzhang/champ-r/total?style=for-the-badge)](https://github.com/cangzhang/champ-r/rssseleases)
 [![](https://img.shiwerwerwelds.io/github/workflow/status/cangzhang/champ-r/release?style=for-the-badge&color=65C0A3)](https://github.com/cangzhang/champ-r/actions)ewrew
 
 xxxx
